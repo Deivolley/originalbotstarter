@@ -1,0 +1,122 @@
+00:01:28.389 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:01:28.584 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:01:29.209 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+00:01:29.209 INFO  ChibiKawaii#6151, ready to watch [555] users in [3] servers. 
+00:01:29.210 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+00:38:58.900 ERROR Unhandled promise rejection: Cannot send an empty message. 
+00:48:57.310 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:48:57.499 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:48:58.204 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+00:48:58.205 INFO  ChibiKawaii#6151, ready to watch [555] users in [3] servers. 
+00:48:58.206 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+01:33:54.569 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:33:54.767 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:33:55.355 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+01:33:55.355 INFO  ChibiKawaii#6151, ready to watch [555] users in [3] servers. 
+01:33:55.355 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+01:34:58.166 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:34:58.354 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:34:58.928 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+01:34:58.929 INFO  ChibiKawaii#6151, ready to watch [555] users in [3] servers. 
+01:34:58.929 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+01:36:02.620 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:36:02.805 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:36:03.534 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+01:36:03.535 INFO  ChibiKawaii#6151, ready to watch [555] users in [3] servers. 
+01:36:03.535 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+02:12:33.266 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:12:33.450 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+02:12:34.311 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+02:12:34.311 INFO  ChibiKawaii#6151, ready to watch [1369] users in [4] servers. 
+02:12:34.311 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+02:15:20.157 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:17:29.183 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:23:30.186 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:25:26.363 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:26:13.950 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:27:16.818 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:35:45.091 ERROR Unhandled promise rejection: 403: Forbidden. 
+02:36:44.041 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:36:44.252 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+02:36:45.378 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+02:36:45.379 INFO  ChibiKawaii#6151, ready to watch [1368] users in [4] servers. 
+02:36:45.379 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:21:35.482 ERROR Unhandled promise rejection: Gateway Time-out. 
+03:22:35.969 ERROR Unhandled promise rejection: Gateway Time-out. 
+03:42:25.596 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:42:25.853 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:42:26.448 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:42:26.448 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+03:42:26.448 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:43:10.038 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:43:10.248 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:43:10.935 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:43:10.936 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+03:43:10.936 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:43:35.432 ERROR Unhandled promise rejection: 404: Not Found. 
+03:44:18.548 ERROR Unhandled promise rejection: 404: Not Found. 
+03:45:12.753 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:45:12.996 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:45:13.833 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:45:13.834 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+03:45:13.834 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:45:51.153 ERROR Unhandled promise rejection: 404: Not Found. 
+03:48:02.890 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:48:03.095 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:48:03.978 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:48:03.978 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+03:48:03.978 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:29:27.885 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:29:28.074 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:29:29.004 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:29:29.005 INFO  ChibiKawaii#6151, ready to watch [1371] users in [4] servers. 
+04:29:29.005 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:57:25.083 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:57:25.280 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:57:26.005 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:57:26.005 INFO  ChibiKawaii#6151, ready to watch [1371] users in [4] servers. 
+04:57:26.006 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+05:55:10.880 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+05:55:11.069 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+05:55:11.862 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+05:55:11.863 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+05:55:11.863 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+05:57:50.874 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+05:57:51.071 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+05:57:51.951 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+05:57:51.951 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+05:57:51.952 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+06:00:43.230 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:00:43.439 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:00:44.125 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+06:00:44.126 INFO  ChibiKawaii#6151, ready to watch [1370] users in [4] servers. 
+06:00:44.126 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+06:07:03.045 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:07:03.230 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:07:03.890 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+06:07:03.891 INFO  ChibiKawaii#6151, ready to watch [1372] users in [4] servers. 
+06:07:03.891 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+06:13:41.218 ERROR Unhandled promise rejection: 403: Forbidden. 
+06:25:10.467 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:25:10.653 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:25:11.330 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+06:25:11.330 INFO  ChibiKawaii#6151, ready to watch [1371] users in [4] servers. 
+06:25:11.330 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:31:30.367 ERROR Unhandled promise rejection: 403: Forbidden. 
+09:58:39.730 ERROR Unhandled promise rejection: 403: Forbidden. 
+22:19:34.415 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:19:34.798 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:19:35.457 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+22:19:35.458 INFO  ChibiKawaii#6151, ready to watch [1392] users in [4] servers. 
+22:19:35.458 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+22:20:26.396 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:20:26.586 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:20:27.298 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+22:20:27.299 INFO  ChibiKawaii#6151, ready to watch [1392] users in [4] servers. 
+22:20:27.301 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+22:39:32.154 ERROR Unhandled promise rejection: 403: Forbidden. 
+22:41:50.217 ERROR Unhandled promise rejection: 403: Forbidden. 
+22:48:22.310 ERROR Unhandled promise rejection: 403: Forbidden. 
+22:50:47.008 ERROR Unhandled promise rejection: 403: Forbidden. 
+23:17:13.219 ERROR Unhandled promise rejection: 403: Forbidden. 
+

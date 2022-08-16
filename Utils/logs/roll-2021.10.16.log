@@ -1,0 +1,45 @@
+03:12:13.816 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:12:14.012 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:12:14.677 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:12:14.678 INFO  ChibiKawaii#6151, ready to watch [897] users in [4] servers. 
+03:12:14.678 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:12:51.540 ERROR Unhandled promise rejection: Cannot read property 'user' of undefined. 
+03:14:07.917 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:14:08.109 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:14:08.640 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:14:08.640 INFO  ChibiKawaii#6151, ready to watch [897] users in [4] servers. 
+03:14:08.641 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:45:53.265 ERROR Unhandled promise rejection: colors is not defined. 
+03:46:48.948 ERROR Unhandled promise rejection: Unable to convert color to a number.. 
+03:47:10.554 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:47:10.787 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:47:11.429 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+03:47:11.429 INFO  ChibiKawaii#6151, ready to watch [899] users in [4] servers. 
+03:47:11.429 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:02:56.946 ERROR Unhandled promise rejection: 403: Forbidden. 
+04:03:43.749 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:03:44.019 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:03:44.604 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:03:44.605 INFO  ChibiKawaii#6151, ready to watch [899] users in [4] servers. 
+04:03:44.606 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:18:08.725 ERROR Unhandled promise rejection: command.run is not a function. 
+04:19:21.951 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:19:22.146 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:19:22.798 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:19:22.798 INFO  ChibiKawaii#6151, ready to watch [900] users in [4] servers. 
+04:19:22.798 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:21:10.297 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:21:10.486 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:21:11.060 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:21:11.061 INFO  ChibiKawaii#6151, ready to watch [900] users in [4] servers. 
+04:21:11.061 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:22:37.767 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:22:37.969 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:22:38.546 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:22:38.546 INFO  ChibiKawaii#6151, ready to watch [900] users in [4] servers. 
+04:22:38.547 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:23:06.567 ERROR Unhandled promise rejection: Maximum number of animated emojis reached (50). 
+04:23:20.373 ERROR Unhandled promise rejection: Maximum number of animated emojis reached (50). 
+04:24:49.182 ERROR Unhandled promise rejection: Maximum number of animated emojis reached (50). 
+04:31:13.300 ERROR Unhandled promise rejection: Maximum number of animated emojis reached (50). 
+

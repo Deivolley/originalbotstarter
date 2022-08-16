@@ -1,0 +1,53 @@
+04:52:10.983 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:52:11.118 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:52:11.496 ERROR Privileged intent provided is not enabled or whitelisted. 
+04:52:52.342 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:52:52.476 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:52:52.867 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:52:52.867 INFO  𝗙𝗮𝗶𝗿𝘆 𝗦𝗵𝗼𝗽#0438, ready to watch [11] users in [1] servers. 
+04:52:52.868 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:52:52.870 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+04:53:25.620 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:53:25.774 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:53:26.230 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:53:26.231 INFO  𝗙𝗮𝗶𝗿𝘆 𝗦𝗵𝗼𝗽#0438, ready to watch [11] users in [1] servers. 
+04:53:26.231 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:53:26.233 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+04:54:51.545 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+04:54:51.663 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+04:54:52.029 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:54:52.029 INFO  𝗙𝗮𝗶𝗿𝘆 𝗦𝗵𝗼𝗽#0438, ready to watch [11] users in [1] servers. 
+04:54:52.030 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+04:54:52.032 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+04:56:20.652 ERROR Unhandled promise rejection: Unable to convert color to a number.. 
+04:58:00.638 ERROR Unhandled promise rejection: this.options.embeds?.map is not a function. 
+07:18:40.914 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[2].name: This field is required
+embeds[0].fields[2].value: This field is required
+embeds[0].fields[3].name: This field is required
+embeds[0].fields[3].value: This field is required. 
+07:19:50.850 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[2].name: This field is required
+embeds[0].fields[2].value: This field is required. 
+07:23:16.356 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[2].name: This field is required
+embeds[0].fields[2].value: This field is required. 
+07:24:08.786 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[2].name: This field is required
+embeds[0].fields[2].value: This field is required
+embeds[0].fields[3].name: This field is required
+embeds[0].fields[3].value: This field is required. 
+07:24:44.780 ERROR Unhandled promise rejection: MessageEmbed field names must be non-empty strings.. 
+07:26:07.689 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[2].name: This field is required
+embeds[0].fields[2].value: This field is required
+embeds[0].fields[3].name: This field is required
+embeds[0].fields[3].value: This field is required. 
+07:42:24.727 ERROR Unhandled promise rejection: Invalid or unexpected token. 
+07:45:52.160 ERROR Unhandled promise rejection: missing ) after argument list. 
+07:47:56.074 ERROR Unhandled promise rejection: missing ) after argument list. 
+07:48:42.910 ERROR Unhandled promise rejection: guild is not defined. 
+07:51:40.121 ERROR Unhandled promise rejection: guild is not defined. 
+08:20:41.110 ERROR Unhandled promise rejection: Unable to convert color to a number.. 
+08:54:43.823 ERROR Unhandled promise rejection: Unable to convert color to a number.. 
+

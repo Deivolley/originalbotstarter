@@ -1,0 +1,180 @@
+12:01:01.179 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:01:01.342 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:01:08.034 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:01:08.035 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:01:08.036 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:01:18.057 ERROR Unhandled promise rejection: interaction.deferUpdate is not a function. 
+12:01:18.730 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:01:46.464 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:01:46.670 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:01:54.995 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:01:54.998 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:01:54.999 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:03:55.418 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:03:55.617 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:04:02.097 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:04:02.098 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:04:02.098 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:04:06.697 ERROR Unhandled promise rejection: command.run is not a function. 
+12:04:30.350 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:04:30.507 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:04:37.377 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:04:37.378 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:04:37.379 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:05:48.560 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:05:48.762 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:06:00.710 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:06:00.713 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:06:00.715 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:06:46.535 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:06:46.787 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:06:53.395 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:06:53.397 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:06:53.398 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:07:18.736 ERROR Unhandled promise rejection: interaction.deferUpdate is not a function. 
+12:07:19.369 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:10:04.404 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:10:04.704 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:10:13.794 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:10:13.796 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:10:13.797 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:18:36.686 ERROR Unhandled promise rejection: interaction.deferUpdate is not a function. 
+12:18:39.960 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:25:10.684 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:25:10.973 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:25:19.276 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:25:19.277 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:25:19.277 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:25:52.368 ERROR Unhandled promise rejection: interaction.deferUpdate is not a function. 
+12:25:52.729 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:27:26.388 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:27:26.555 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:27:33.160 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:27:33.161 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:27:33.162 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:27:41.041 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:30:40.792 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:30:40.992 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:30:48.024 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:30:48.025 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:30:48.026 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:30:53.224 ERROR Unhandled promise rejection: Cannot read property 'find' of undefined. 
+12:34:02.633 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:34:02.841 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:34:09.824 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:34:09.827 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:34:09.828 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:34:19.621 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:38:17.077 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:38:17.382 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:38:24.300 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:38:24.301 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:38:24.302 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:38:33.833 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+12:39:06.816 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:39:07.147 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:39:13.770 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:39:13.770 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:39:13.771 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:39:17.596 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:39:17.930 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:39:24.773 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:39:24.773 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:39:24.774 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:39:24.777 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+12:46:41.381 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:46:41.539 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:46:47.759 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:46:47.759 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+12:46:47.760 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:23:05.659 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:23:05.816 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:23:12.717 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:23:12.718 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+13:23:12.719 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:25:02.389 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:25:02.638 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:25:10.325 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:25:10.326 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+13:25:10.326 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:25:18.295 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+13:28:04.868 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:28:05.047 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:28:11.595 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:28:11.596 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+13:28:11.596 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:28:19.043 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:28:19.231 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:28:25.705 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:28:25.706 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+13:28:25.707 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:28:32.812 ERROR Unhandled promise rejection: interacion is not defined. 
+14:22:56.709 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:22:56.961 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:23:03.713 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:23:03.714 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+14:23:03.714 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:23:32.832 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:23:33.022 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:23:39.649 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:23:39.650 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+14:23:39.651 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:23:54.495 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:23:54.775 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:24:01.778 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:24:01.779 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+14:24:01.780 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:24:30.979 ERROR Unhandled promise rejection: Cannot read property 'send' of undefined. 
+14:26:38.082 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:26:38.360 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:26:44.784 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:26:44.789 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+14:26:44.790 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:10:11.066 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:10:11.295 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:10:18.012 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:10:18.012 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+16:10:18.013 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:10:59.034 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:10:59.207 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:11:07.096 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:11:07.098 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+16:11:07.099 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:12:03.163 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:12:03.353 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:12:12.104 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:12:12.105 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+16:12:12.106 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:14:03.136 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:14:03.415 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:14:09.949 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:14:09.950 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+16:14:09.951 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:18:10.316 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:18:10.496 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:18:18.538 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:18:18.539 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+16:18:18.540 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:42:54.787 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:42:55.058 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:43:02.980 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:43:02.981 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+21:43:02.981 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:43:11.142 ERROR Unhandled promise rejection: MessageButton.setLabel is not a constructor. 
+21:44:04.535 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:44:04.743 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:44:14.272 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:44:14.273 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+21:44:14.273 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:46:49.372 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:46:49.608 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:46:57.241 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:46:57.242 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+21:46:57.243 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:47:12.400 ERROR Unhandled promise rejection: arg is not defined. 
+21:47:39.498 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:47:39.901 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:47:48.320 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:47:48.321 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+21:47:48.321 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:48:03.618 ERROR Unhandled promise rejection: MessageButton.setLabel is not a constructor. 

@@ -1,0 +1,941 @@
+11:14:51.343 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:14:51.650 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:14:58.582 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:14:58.587 INFO  ChibiKawaii#6151, ready to watch [10] users in [1] servers. 
+11:14:58.587 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:18:56.608 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:18:56.898 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:19:06.629 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:19:07.018 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:19:13.518 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:19:13.518 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:19:13.519 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:19:45.484 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:19:45.772 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:19:52.995 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:19:52.996 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:19:52.997 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:20:24.141 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:20:24.540 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:20:31.621 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:20:31.622 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:20:31.623 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:20:37.679 ERROR Unhandled promise rejection: lover is not defined. 
+11:21:12.946 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:21:13.233 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:21:19.920 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:21:19.920 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:21:19.921 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:24:10.603 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:24:10.955 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:24:17.429 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:24:17.430 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:24:17.432 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:30:07.406 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:30:07.640 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:30:14.508 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:30:14.509 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:30:14.510 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:31:39.482 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:31:39.714 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:31:46.416 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:31:46.418 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:31:46.418 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:35:25.974 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:35:26.186 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:35:32.863 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:35:32.864 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:35:32.864 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:35:51.787 ERROR Unhandled promise rejection: user is not defined. 
+11:36:10.799 ERROR Unhandled promise rejection: user is not defined. 
+11:36:38.144 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:36:38.392 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:36:44.708 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:36:44.713 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:36:44.715 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:42:09.580 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:42:09.814 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:42:16.658 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:42:16.659 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:42:16.660 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:42:53.971 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:42:54.248 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:43:00.456 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:43:00.458 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:43:00.458 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:44:02.012 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:44:02.209 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:44:08.587 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:44:08.588 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:44:08.588 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:46:39.039 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:46:39.306 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:46:45.514 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:46:45.514 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:46:45.515 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:46:47.748 ERROR Unhandled promise rejection: user is not defined. 
+11:47:12.231 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:47:12.543 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:47:19.510 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:47:19.511 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:47:19.512 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:52:14.443 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:52:14.710 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:52:22.836 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:52:22.837 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:52:22.838 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:52:39.160 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:52:39.417 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:52:46.085 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:52:46.088 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:52:46.088 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:53:07.014 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:53:07.343 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:53:13.639 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:53:13.640 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:53:13.641 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:57:19.842 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:57:20.076 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:57:26.779 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:57:26.780 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:57:26.781 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:59:43.397 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:59:43.616 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:59:50.610 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+11:59:50.612 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+11:59:50.613 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:01:32.582 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:01:32.799 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:01:39.348 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:01:39.350 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:01:39.351 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:01:40.526 ERROR Unhandled promise rejection: username is not defined. 
+12:02:25.548 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:02:25.777 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:02:32.475 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:02:32.476 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:02:32.476 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:02:37.970 ERROR Unhandled promise rejection: username is not defined. 
+12:03:07.847 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:03:08.078 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:03:14.432 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:03:14.433 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:03:14.435 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:03:17.737 ERROR Unhandled promise rejection: message.guild.members.get is not a function. 
+12:03:35.957 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:03:36.164 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:03:42.352 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:03:42.352 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:03:42.353 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:06:27.246 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:06:27.536 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:06:34.953 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:06:34.954 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:06:34.955 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:06:44.239 ERROR Unhandled promise rejection: member is not defined. 
+12:07:16.702 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:07:16.907 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:07:23.351 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:07:23.352 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:07:23.354 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:08:15.910 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:08:16.192 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:08:22.342 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:08:22.344 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:08:22.346 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:09:14.700 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:09:15.032 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:09:21.431 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:09:21.432 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:09:21.432 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:09:40.953 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:09:41.253 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:09:47.402 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:09:47.404 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+12:09:47.405 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:16:51.183 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:16:51.590 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:16:58.405 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:16:58.406 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:16:58.409 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:22:12.729 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:22:13.002 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:22:25.908 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:22:25.909 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:22:25.910 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:23:10.688 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:23:10.981 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:23:27.351 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:23:27.352 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:23:27.352 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:23:47.404 ERROR Unhandled promise rejection: member is not defined. 
+12:24:13.640 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:24:13.942 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:24:23.896 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:24:23.897 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:24:23.898 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:24:41.833 ERROR Unhandled promise rejection: Cannot read property 'add' of undefined. 
+12:29:34.711 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:29:34.923 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:30:04.976 ERROR The user aborted a request. 
+12:30:45.733 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:30:46.153 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:30:52.375 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:30:52.376 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:30:52.376 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:36:08.734 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:36:08.962 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:36:15.656 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:36:15.657 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:36:15.658 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:36:37.168 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:36:37.467 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:36:44.400 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:36:44.401 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:36:44.402 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:58:07.113 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:58:07.484 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:58:11.869 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+12:58:11.873 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+12:58:11.875 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:02:58.566 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:02:58.844 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:03:05.666 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:03:05.668 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:03:05.670 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:03:37.806 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:03:38.064 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:03:44.663 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:03:44.666 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:03:44.666 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:04:42.228 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:04:42.745 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:04:50.036 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:04:50.037 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:04:50.038 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:05:17.048 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:05:17.603 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:05:24.462 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:05:24.463 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:05:24.463 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:05:55.709 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:05:55.997 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:06:03.114 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:06:03.115 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:06:03.115 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:06:42.143 ERROR Unhandled promise rejection: Unknown Message. 
+13:06:51.669 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:06:52.062 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:06:59.006 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:06:59.009 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:06:59.011 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:17:02.112 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:17:02.682 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:17:09.558 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:17:09.559 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:17:09.560 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:18:41.162 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:18:41.468 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:18:47.728 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:18:47.729 INFO  ChibiKawaii#6151, ready to watch [36] users in [2] servers. 
+13:18:47.729 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:19:43.124 ERROR Unhandled promise rejection: Unknown Message. 
+13:22:08.316 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:22:08.622 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:22:15.484 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:22:15.484 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+13:22:15.485 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:55:11.255 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:55:11.896 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:55:18.687 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+13:55:18.690 INFO  ChibiKawaii#6151, ready to watch [35] users in [2] servers. 
+13:55:18.694 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:10:18.877 ERROR Unhandled promise rejection: guildID is not defined. 
+14:10:47.452 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:10:47.846 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:10:54.577 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:10:54.579 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:10:54.580 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:10:55.243 ERROR Unhandled promise rejection: Cannot read property 'id' of undefined. 
+14:16:14.953 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:16:15.288 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:16:21.554 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:16:21.557 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:16:21.558 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:09.058 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:18:09.592 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:18:16.426 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:18:16.427 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:18:16.428 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:41:30.624 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:41:31.025 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:41:37.800 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:41:37.802 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:41:37.803 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:45:38.930 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:45:39.217 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:45:45.839 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:45:45.840 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:45:45.841 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:46:27.971 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:46:28.361 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:46:34.517 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:46:34.518 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:46:34.518 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:46:50.451 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:46:50.836 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:46:57.880 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:46:57.881 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:46:57.882 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:47:02.194 ERROR Unhandled promise rejection: interaction.followUp(...).setDescription is not a function. 
+14:49:23.504 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:49:24.167 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:49:30.461 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:49:30.462 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:49:30.463 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:49:38.091 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+14:49:57.813 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:49:58.152 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:50:04.400 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:50:04.401 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:50:04.402 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:50:12.479 ERROR Unhandled promise rejection: interaction.followUp(...).addField is not a function. 
+14:51:06.630 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:51:07.557 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:51:14.501 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:51:14.505 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:51:14.506 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:51:21.351 ERROR Unhandled promise rejection: MessageEmbed field names must be non-empty strings.. 
+14:52:08.245 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:52:08.614 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:52:16.192 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:52:16.195 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:52:16.196 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:52:21.748 ERROR Unhandled promise rejection: MessageEmbed field names must be non-empty strings.. 
+14:59:08.032 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:59:08.408 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:59:15.509 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:59:15.510 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+14:59:15.511 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+14:59:27.563 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+15:01:04.570 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:01:05.238 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:01:11.354 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:01:11.355 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:01:11.355 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:03:26.398 ERROR Unhandled promise rejection: MessageEmbed field names must be non-empty strings.. 
+15:05:06.538 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:05:06.974 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:05:13.787 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:05:13.789 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:05:13.790 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:05:17.249 ERROR Unhandled promise rejection: Unknown Webhook. 
+15:05:20.232 ERROR Unhandled promise rejection: embed1 is not defined. 
+15:05:52.653 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:05:53.258 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:06:00.869 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:06:00.872 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:06:00.873 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:09:26.495 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:09:26.765 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:09:33.297 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:09:33.298 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:09:33.300 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:09:40.245 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+15:09:40.251 ERROR Unhandled promise rejection: interaction.reply(...).setDescription is not a function. 
+15:11:19.141 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:11:19.554 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:11:27.200 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:11:27.206 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:11:27.207 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:11:37.375 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+15:11:37.385 ERROR Unhandled promise rejection: interaction.reply(...).setDescription is not a function. 
+15:11:58.304 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:11:58.765 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:12:05.384 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:12:05.387 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:12:05.388 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:12:08.814 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:12:23.878 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:12:24.435 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:12:32.209 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:12:32.211 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:12:32.212 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:12:37.848 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:18:22.239 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:18:23.147 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:18:31.716 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:18:31.717 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:18:31.718 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:24:26.441 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:24:26.752 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:24:33.328 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:24:33.335 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:24:33.336 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:24:39.488 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:24:57.381 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:24:57.933 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:25:04.833 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:25:04.834 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:25:04.835 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:27:57.141 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:27:57.711 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:28:04.708 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:28:04.709 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:28:04.711 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:28:11.932 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:32:18.011 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:32:18.378 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:32:23.748 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:32:23.748 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:32:23.749 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:32:33.771 ERROR Unhandled promise rejection: guildID is not defined. 
+15:33:43.576 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:33:44.286 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:33:52.098 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:33:52.099 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:33:52.100 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:33:55.012 ERROR Unhandled promise rejection: Cannot read property 'id' of undefined. 
+15:36:34.963 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:36:35.248 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:36:41.816 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:36:41.817 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:36:41.817 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:36:48.860 ERROR Unhandled promise rejection: author is not defined. 
+15:37:08.689 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:37:08.987 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:37:17.329 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:37:17.330 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:37:17.331 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:37:22.289 ERROR Unhandled promise rejection: author is not defined. 
+15:43:18.768 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:43:19.378 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:43:26.620 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:43:26.621 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:43:26.622 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:43:30.122 ERROR Unhandled promise rejection: author is not defined. 
+15:44:19.440 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:44:19.800 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:44:26.561 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:44:26.563 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:44:26.565 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:44:40.426 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].description: This field is required. 
+15:44:41.311 ERROR Unhandled promise rejection: 403: Forbidden. 
+15:45:11.770 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:45:12.098 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:45:18.275 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:45:18.276 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:45:18.277 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:46:33.011 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].description: This field is required. 
+15:46:33.804 ERROR Unhandled promise rejection: 403: Forbidden. 
+15:51:05.762 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:51:06.137 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:51:12.579 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:51:12.582 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:51:12.589 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:51:21.652 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].description: This field is required. 
+15:51:22.484 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+15:52:07.169 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:52:07.914 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:52:15.736 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:52:15.737 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:52:15.737 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:52:20.201 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].description: This field is required. 
+15:52:23.067 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].description: This field is required. 
+15:53:35.890 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:53:36.578 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:53:44.021 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:53:44.023 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:53:44.029 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:53:51.742 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:53:53.393 ERROR Unhandled promise rejection: 403: Forbidden. 
+15:56:07.635 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:56:08.392 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:56:15.814 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:56:15.816 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:56:15.817 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:56:21.824 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:56:22.825 ERROR Unhandled promise rejection: 403: Forbidden. 
+15:57:01.181 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:57:01.615 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:57:09.176 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:57:09.177 INFO  ChibiKawaii#6151, ready to watch [34] users in [2] servers. 
+15:57:09.177 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+15:57:15.525 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+15:57:16.618 ERROR Unhandled promise rejection: 403: Forbidden. 
+16:03:40.890 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:03:41.359 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:03:49.080 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:03:49.081 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:03:49.083 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:04:29.374 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:04:29.717 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:04:37.655 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:04:37.659 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:04:37.660 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:05:11.748 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+16:05:12.830 ERROR Unhandled promise rejection: 403: Forbidden. 
+16:05:19.226 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:05:21.352 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:05:29.247 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:05:29.249 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:05:29.249 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:05:39.294 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+16:05:48.270 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:05:49.158 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:05:56.405 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:05:56.406 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:05:56.407 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:06:03.296 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+16:07:04.861 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:07:05.194 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:07:12.994 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:07:12.995 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:07:12.996 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:08:11.755 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:08:12.251 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:08:19.468 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:08:19.469 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:08:19.471 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:08:24.477 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:08:25.033 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:08:32.706 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:08:32.707 INFO  ChibiKawaii#6151, ready to watch [543] users in [3] servers. 
+16:08:32.708 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:40:53.362 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:40:54.027 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:41:02.026 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:41:02.026 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+16:41:02.027 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:50:23.565 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:50:23.925 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:50:31.761 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:50:31.763 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+16:50:31.764 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:53:02.571 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:53:03.039 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:53:10.810 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:53:10.811 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+16:53:10.815 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:54:40.628 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:54:41.088 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:54:48.727 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:54:48.728 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+16:54:48.729 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:56:37.670 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:56:38.398 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:56:46.026 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:56:46.033 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+16:56:46.054 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+16:59:54.952 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:59:55.317 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:00:02.742 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:00:02.743 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:00:02.743 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:00:07.962 ERROR Unhandled promise rejection: Cannot read property 'id' of undefined. 
+17:02:15.648 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:02:16.027 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:02:23.191 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:02:23.192 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:02:23.193 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:03:00.068 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:03:00.402 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:03:05.442 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:03:05.442 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:03:05.443 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:04:32.217 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:04:32.765 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:04:40.006 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:04:40.008 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:04:40.009 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:06:08.230 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:06:08.642 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:06:17.072 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:06:17.073 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:06:17.074 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:12:56.087 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:12:56.546 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:13:04.970 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:13:04.971 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:13:04.971 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:15:38.868 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:15:39.536 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:15:46.315 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:15:46.316 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:15:46.317 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:16:36.004 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:16:36.659 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:16:43.576 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:16:43.577 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:16:43.577 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:17:08.970 ERROR Unhandled promise rejection: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+17:17:26.660 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:17:27.317 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:17:33.277 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:17:33.657 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:17:40.631 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:17:40.633 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:17:40.634 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:17:51.342 ERROR Unhandled promise rejection: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+17:32:31.306 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:32:31.717 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:32:39.277 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:32:39.278 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:32:39.282 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:33:36.307 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:33:36.685 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:33:43.333 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:33:43.334 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:33:43.334 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:34:08.600 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:34:08.924 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:34:16.387 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:34:16.388 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:34:16.388 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:34:43.374 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:34:44.034 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:34:52.540 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:34:52.556 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:34:52.558 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:37:16.243 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:37:16.564 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:37:23.751 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:37:23.752 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:37:23.752 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:40:13.450 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:40:13.964 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:40:21.903 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:40:21.911 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+17:40:21.919 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:36:16.418 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:36:16.780 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:36:23.942 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:36:23.948 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:36:23.949 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:36:46.436 ERROR Unhandled promise rejection: Cannot read property 'get' of undefined. 
+19:38:03.998 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:38:04.298 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:38:10.959 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:38:10.960 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:38:10.960 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:38:13.931 ERROR Unhandled promise rejection: Cannot read property 'timeout' of undefined. 
+19:40:13.918 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:40:14.273 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:40:20.820 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:40:20.823 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:40:20.824 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:40:23.223 ERROR Unhandled promise rejection: Cannot read property 'timeout' of undefined. 
+19:41:01.743 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:41:02.119 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:41:08.812 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:41:08.813 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:41:08.813 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:42:24.342 ERROR Unhandled promise rejection: message is not defined. 
+19:42:48.300 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:42:48.575 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:42:58.314 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:42:58.640 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:43:06.403 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:43:06.404 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:43:06.406 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:43:11.243 ERROR Unhandled promise rejection: Cannot read property 'id' of undefined. 
+19:43:41.240 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:43:41.530 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:43:49.465 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:43:49.466 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:43:49.466 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:44:22.093 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+19:44:28.434 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+19:49:12.274 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:49:12.937 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:49:20.756 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:49:20.758 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:49:20.760 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:50:51.674 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:50:52.123 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:50:59.675 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:50:59.675 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:50:59.676 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:51:18.112 ERROR Unhandled promise rejection: Cannot access 'cooldown' before initialization. 
+19:51:49.922 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:51:50.290 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:51:58.632 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:51:58.633 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:51:58.634 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:52:14.701 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+19:52:55.616 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:52:56.072 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:53:02.988 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:53:02.989 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:53:02.990 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:53:15.183 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+19:55:18.925 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:55:19.295 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:55:27.095 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:55:27.096 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:55:27.097 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:55:29.882 ERROR Unhandled promise rejection: Cannot read property 'checkin' of undefined. 
+19:57:07.045 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:57:07.563 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:57:15.155 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:57:15.155 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:57:15.156 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:57:29.314 ERROR Unhandled promise rejection: MessageActionRow is not defined. 
+19:57:30.590 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+19:58:37.350 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:58:37.735 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:58:45.298 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:58:45.298 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+19:58:45.299 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+19:58:55.470 ERROR Unhandled promise rejection: MessageActionRow is not defined. 
+19:58:56.573 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+20:05:48.015 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:05:48.957 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:05:55.873 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:05:55.874 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:05:55.874 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:06:01.330 ERROR Unhandled promise rejection: MessageActionRow is not defined. 
+20:06:02.466 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+20:06:18.943 ERROR Unhandled promise rejection: MessageActionRow is not defined. 
+20:06:34.090 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:06:34.732 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:06:43.002 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:06:43.019 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:06:43.025 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:06:48.407 ERROR Unhandled promise rejection: Invalid Form Body
+components[0].components[0].style: This field is required. 
+20:08:01.475 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:08:02.813 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:08:10.412 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:08:10.413 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:08:10.414 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:08:42.641 ERROR Unhandled promise rejection: db is not defined. 
+20:15:35.254 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:15:38.193 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:15:47.439 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:15:47.522 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:15:47.562 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:16:21.035 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+20:28:54.607 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:28:54.982 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:29:02.170 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:29:02.179 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:29:02.181 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:32:09.073 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+20:32:13.049 ERROR Unhandled promise rejection: (intermediate value).setTitle(...).setImage(...).setDescription(...).setField is not a function. 
+20:32:47.703 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:32:47.993 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:32:54.833 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:32:54.834 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:32:54.834 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:39:06.216 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:39:07.573 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:39:14.934 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:39:14.940 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:39:14.942 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:41:46.797 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:41:47.506 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:41:56.393 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:41:56.402 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:41:56.421 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:41:56.445 ERROR Unhandled promise rejection: Cannot read property 'set' of undefined. 
+20:44:45.301 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:44:46.040 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:44:56.745 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:44:56.777 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:44:56.794 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:45:01.326 ERROR Unhandled promise rejection: Unknown Webhook. 
+20:45:57.555 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:45:58.469 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:46:04.964 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:46:04.994 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:46:05.003 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:46:06.603 ERROR Unhandled promise rejection: 404: Not Found. 
+20:48:56.022 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:48:57.906 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:49:04.971 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:49:04.980 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:49:04.984 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:49:05.074 ERROR Unhandled promise rejection: Cannot read property 'set' of undefined. 
+20:51:01.943 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:51:02.379 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:51:10.075 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:51:10.077 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:51:10.078 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:51:28.401 ERROR Unhandled promise rejection: (intermediate value).setTitle(...).setImage(...).setDescription(...).setField is not a function. 
+20:53:18.346 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:53:18.851 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:53:25.836 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:53:25.837 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:53:25.837 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:54:07.438 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+20:54:24.458 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:54:25.336 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:54:34.524 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:54:34.962 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:54:41.990 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:54:41.998 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:54:42.015 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:54:49.909 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+20:58:35.070 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:58:35.796 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:58:43.332 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:58:43.333 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:58:43.333 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:58:52.537 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:58:52.965 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:58:59.847 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:58:59.850 INFO  ChibiKawaii#6151, ready to watch [545] users in [3] servers. 
+20:58:59.852 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+20:59:17.093 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:01:26.058 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:01:26.809 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:01:33.727 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:01:33.728 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:01:33.729 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:01:46.769 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:02:20.598 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:02:21.299 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:02:29.195 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:02:29.196 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:02:29.198 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:02:48.098 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+21:03:07.873 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:03:12.932 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:03:13.322 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:03:21.463 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:03:21.466 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:03:21.468 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:03:27.228 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+21:04:30.417 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:04:30.975 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:04:39.538 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:04:39.539 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:04:39.540 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:04:49.447 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+21:05:50.719 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:05:51.229 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:05:55.768 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:05:55.769 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:05:55.770 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:08:38.417 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:08:38.833 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:08:46.500 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:08:46.502 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:08:46.503 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:08:54.623 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:09:53.206 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+21:11:52.639 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:11:53.210 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:12:00.781 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:12:00.783 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:12:00.783 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:12:27.104 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:14:06.061 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+21:19:56.127 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:19:56.929 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:20:04.958 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:20:04.959 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:20:04.959 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:22:18.583 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:22:19.084 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:22:26.134 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:22:26.137 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:22:26.139 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:23:42.888 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:23:43.340 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:23:50.919 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:23:50.922 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:23:50.923 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:24:00.874 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:24:04.313 ERROR Unhandled promise rejection: Cannot send an empty message. 
+21:24:20.191 ERROR Unhandled promise rejection: Cannot send an empty message. 
+21:25:02.416 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:25:03.222 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:25:10.715 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:25:10.716 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:25:10.716 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:25:27.201 ERROR Unhandled promise rejection: user is not defined. 
+21:25:34.483 ERROR Unhandled promise rejection: user is not defined. 
+21:25:34.486 ERROR Unhandled promise rejection: user is not defined. 
+21:25:34.918 ERROR Unhandled promise rejection: Unknown Message. 
+21:25:42.104 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:25:42.621 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:25:49.802 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:25:49.840 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:25:49.844 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:25:55.821 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:26:03.529 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+21:26:09.639 ERROR Unhandled promise rejection: user is not defined. 
+21:26:38.664 ERROR Unhandled promise rejection: user is not defined. 
+21:32:45.903 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:32:46.173 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:32:50.784 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:32:50.785 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:32:50.786 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:33:55.240 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:33:55.768 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:34:02.790 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:34:02.791 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:34:02.791 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:34:07.539 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:34:12.604 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+21:36:01.783 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:36:02.072 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:36:09.267 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:36:09.267 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:36:09.268 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:36:21.841 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:36:28.522 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+21:36:51.471 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:36:52.363 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:36:59.754 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:36:59.757 INFO  ChibiKawaii#6151, ready to watch [546] users in [3] servers. 
+21:36:59.758 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:37:04.847 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+21:37:05.754 ERROR Unhandled promise rejection: Invalid cash and bank parameter provided. 
+21:48:25.497 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:48:25.950 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:48:32.720 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:48:32.720 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+21:48:32.721 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:49:04.350 ERROR Unhandled promise rejection: newBank is not defined. 
+21:49:33.169 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:49:33.532 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:49:40.693 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:49:40.694 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+21:49:40.695 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:49:43.317 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+21:50:23.978 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:50:24.279 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:50:32.141 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:50:32.156 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+21:50:32.172 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:50:44.752 ERROR Unhandled promise rejection: The reply to this interaction has already been sent or deferred.. 
+21:56:09.302 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:56:09.595 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:56:16.731 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:56:16.732 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+21:56:16.732 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:57:02.845 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:57:03.567 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:57:11.045 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:57:11.049 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+21:57:11.050 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:58:56.018 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:58:56.378 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:59:04.301 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:59:04.303 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+21:59:04.312 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+21:59:57.081 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:59:57.357 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:00:04.672 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+22:00:04.672 INFO  ChibiKawaii#6151, ready to watch [547] users in [3] servers. 
+22:00:04.673 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+22:00:19.474 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:00:19.840 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 

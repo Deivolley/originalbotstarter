@@ -1,0 +1,72 @@
+05:42:44.379 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+05:42:44.685 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+05:42:45.043 ERROR Privileged intent provided is not enabled or whitelisted. 
+05:46:18.122 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+05:46:18.310 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+05:46:18.642 ERROR Privileged intent provided is not enabled or whitelisted. 
+05:49:51.146 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+05:49:51.346 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+05:49:51.916 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+05:49:51.917 INFO  Redzone Fanday#5808, ready to watch [462] users in [2] servers. 
+05:49:51.917 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+05:49:51.920 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+07:24:02.301 ERROR Unhandled promise rejection: Cannot access 'currentDate' before initialization. 
+07:25:42.937 ERROR Unhandled promise rejection: Cannot access 'currentDate' before initialization. 
+07:28:18.798 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:28:18.924 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:28:19.807 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:28:19.808 INFO  Redzone Fanday#5808, ready to watch [462] users in [2] servers. 
+07:28:19.808 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:28:19.812 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+07:28:57.616 ERROR Unhandled promise rejection: Cannot send an empty message. 
+07:37:00.240 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:37:00.360 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:37:00.896 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:37:00.897 INFO  Redzone Fanday#5808, ready to watch [462] users in [2] servers. 
+07:37:00.898 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:37:00.902 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+07:37:12.292 ERROR Unhandled promise rejection: Cannot send an empty message. 
+07:43:31.784 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:43:31.901 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:43:32.505 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:43:32.506 INFO  Redzone Fanday#5808, ready to watch [462] users in [2] servers. 
+07:43:32.506 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:43:32.510 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+07:43:59.733 ERROR Unhandled promise rejection: Cannot send an empty message. 
+07:46:53.932 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:46:54.104 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:46:54.710 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:46:54.710 INFO  Redzone Fanday#5808, ready to watch [462] users in [2] servers. 
+07:46:54.711 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+07:46:54.713 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+08:15:18.586 ERROR Unhandled promise rejection: 404: Not Found. 
+08:16:00.302 ERROR Unhandled promise rejection: 404: Not Found. 
+11:24:28.636 ERROR Unhandled promise rejection: Th is not defined. 
+12:19:08.747 ERROR Unhandled promise rejection: 404: Not Found. 
+12:19:27.369 ERROR Unhandled promise rejection: 404: Not Found. 
+17:01:47.067 ERROR Unhandled promise rejection: Th is not defined. 
+17:02:07.201 ERROR Unhandled promise rejection: Th is not defined. 
+17:02:37.438 ERROR Unhandled promise rejection: 404: Not Found. 
+17:03:08.390 ERROR Unhandled promise rejection: Th is not defined. 
+17:03:59.762 ERROR Unhandled promise rejection: Th is not defined. 
+17:04:04.471 ERROR Unhandled promise rejection: Th is not defined. 
+17:04:13.092 ERROR Unhandled promise rejection: 404: Not Found. 
+17:04:46.952 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:04:47.079 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:04:47.618 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:04:47.618 INFO  Redzone Fanday#5808, ready to watch [487] users in [5] servers. 
+17:04:47.618 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+17:04:47.621 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+23:02:49.108 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:02:49.243 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:02:49.889 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+23:02:49.890 INFO  Redzone Fanday#5808, ready to watch [490] users in [5] servers. 
+23:02:49.890 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+23:02:49.898 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+23:05:47.651 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:05:47.853 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:05:48.597 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+23:05:48.597 INFO  Redzone Fanday#5808, ready to watch [490] users in [5] servers. 
+23:05:48.597 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+23:05:48.600 ERROR Unhandled promise rejection: Cannot read property 'commands' of undefined. 
+

@@ -1,0 +1,18 @@
+03:14:27.819 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:14:49.181 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:15:48.831 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:16:48.408 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:20:05.614 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:21:01.923 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:23:12.467 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:24:20.102 ERROR Unhandled promise rejection: Cannot send an empty message. 
+03:27:45.327 ERROR Unhandled promise rejection: client is not defined. 
+03:30:08.342 ERROR Unhandled promise rejection: Cannot send an empty message. 
+03:34:07.704 ERROR Unhandled promise rejection: Cannot send an empty message. 
+03:35:31.931 ERROR Unhandled promise rejection: Cannot send an empty message. 
+03:36:14.362 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:39:14.102 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:40:13.625 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:47:16.127 ERROR Unhandled promise rejection: Cannot read property 'MessageEmbed' of undefined. 
+03:48:31.156 ERROR Unhandled promise rejection: Cannot send an empty message. 
+
